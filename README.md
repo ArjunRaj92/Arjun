@@ -17,7 +17,7 @@ Hi, I’m **Arjun Rajendran**! I’m a passionate developer who loves building t
 - **Tools:** [e.g., Git, Docker, VSCode]
 
 ## 📈 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjunRaj92&show_icons=true&theme=radical)
 
 ## 🌟 Fun Facts
 - I love [hobby or fun fact about yourself].
